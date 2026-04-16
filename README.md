@@ -47,4 +47,4 @@ Analysis of Big Five personality structure, age trajectories, sex differences, a
 
 **Key findings:** Conscientiousness increased and neuroticism decreased with age, replicating the maturity principle (Roberts et al., 2006). Sex differences were small across all domains (all |d| < 0.2). Four personality profiles emerged from k-means clustering, distinguished by their Big Five signatures (e.g. high conscientiousness + low neuroticism vs. high neuroticism + low extraversion).
 
-**Codebook:** [DASS-42](DASS-42 codebook.txt) · [IPIP-300](https://github.com/NeuroQuestAi/ipip-neo-data) · [IPIP-300 OSF](https://osf.io/tbmh5/)
+**Codebook:** [DASS-42](DASS-42%20codebook.txt) · [IPIP-300](https://github.com/NeuroQuestAi/ipip-neo-data) · [IPIP-300 OSF](https://osf.io/tbmh5/)
